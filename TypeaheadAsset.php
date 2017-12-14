@@ -10,7 +10,7 @@ class TypeaheadAsset extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/two20';
+    public $sourcePath = './js';
 
     /**
      * @inheritdoc
