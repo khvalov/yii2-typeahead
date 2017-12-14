@@ -13,7 +13,6 @@
     }
   ],
   "require": {
-    "two20/twitter-typeahead-ajax": "*"
   },
   "autoload": {
     "psr-4": {"khvalov\\widgets\\": ""}
