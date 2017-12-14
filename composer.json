@@ -1,0 +1,26 @@
+{
+  "name": "khvalov/yii2-typeahead",
+  "description": "Typeahead AJAX widget for Yii2 framework.",
+  "keywords": [
+    "yii2",
+    "typeahead"
+  ],
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Гонимар Сергей",
+      "email": "sergey.gonimar@gmail.com"
+    }
+  ],
+  "require": {
+    "two20/twitter-typeahead-ajax": "*"
+  },
+  "autoload": {
+    "psr-4": {"khvalov\\widgets\\": ""}
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
